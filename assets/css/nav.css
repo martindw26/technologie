@@ -1,0 +1,13 @@
+.nav-link{
+  color: white !important;
+}
+
+.navbar-toggler{
+width: 300px;
+background-color: white;
+}
+
+.navbar-toggler-icon {
+color: white !important;
+}
+
